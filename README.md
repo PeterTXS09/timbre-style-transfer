@@ -1,4 +1,4 @@
-# timbre-style-transfer
+# CycleGAN-timbre-style-transfer
 Timbre Style Transfer using CycleGANs
 
 Project developed for the Advanced Techniques of Data Mining and Intelligent Systems course:
